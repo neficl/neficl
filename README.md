@@ -1,6 +1,6 @@
 ### Hello, I'm Néfi Leite😄
 
-- 📚 I'm currently studying Computer Engineering at UFPB and studying Software Engineering at Brigham Young University - Idaho
+- 📚 I'm currently studying Computer Engineering at UFPB 
 - 🔭 I'm always looking to learn and develop my skills.
 
 <div align="center">
