@@ -1,6 +1,6 @@
 ### Hello, I'm Néfi Leite😄
 
-- 📚 I'm currently studying Computer Engineering at UFPB 
+- 📚 I'm currently studying software Engineering at Ensign College 
 - 🔭 I'm always looking to learn and develop my skills.
 
 <div align="center">
